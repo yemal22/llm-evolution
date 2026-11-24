@@ -2,7 +2,7 @@
 
 [Open the interactive course](https://yemal22.github.io/llm-evolution/)
 
-Start with “The dry wind carries ___” and trace how different architectures use the same clue. Use the arrow keys to advance each build, adjust the sliders to test a prediction, and open the worked explanation or self-check below each figure.
+Start with “The dry wind carries ___” and trace how different architectures use the same clue. Use the arrow keys to advance each build, adjust the sliders to test a prediction, and advance to the worked example and self-check after each figure.
 
 ## Course outline
 
@@ -30,4 +30,4 @@ Start with “The dry wind carries ___” and trace how different architectures 
 
 Download `index.html` and open it in a browser. The interactive lecture has no external runtime dependencies. Each lesson links to further reading.
 
-The presentation design draws on the [Day 5 Human–Machine Perception deck](https://github.com/delamarifer/human-machine-perception/tree/main/day05-planb).
+The presentation design draws on the [Day 6 Human–Machine Perception deck](https://github.com/delamarifer/human-machine-perception/tree/main/day06).
